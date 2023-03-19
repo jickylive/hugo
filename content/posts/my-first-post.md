@@ -5,3 +5,4 @@ draft: false
 ---
 
 # Hugo on Vercel
+[srs_player url="http://lh.jicky.xyz/live/livestream.m3u8"]
